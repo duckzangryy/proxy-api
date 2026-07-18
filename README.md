@@ -1,4 +1,4 @@
-# ProxyAPI
+# proxy-api
 
 Lightweight Express service that aggregates free proxy lists, health-checks them, and serves live results as JSON.
 
@@ -17,7 +17,7 @@ Lightweight Express service that aggregates free proxy lists, health-checks them
 ## Quick start
 
 ```bash
-git clone https://github.com/duckzangryy/ProxyAPI.git
+git clone https://github.com/duckzangryy/proxy-api.git
 cd ProxyAPI
 npm install express axios moment json-beautify   # or npm i if package.json is added
 node index.js
